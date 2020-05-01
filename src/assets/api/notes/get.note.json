@@ -1,0 +1,10 @@
+{
+	"Id": 1056,
+	"ActorId": 722,
+	"ActorTypeId": 6,
+	"CreatedAt": "2018-02-28T14:40:00",
+	"Note": "Alerts are available for any length of text, as well as an optional dismiss button. For proper styling, use one of the four required contextual classes (e.g., .alert-success). For inline dismissal, use the dismissible property.",
+	"Creator": "зоя 3 Sherbina",
+	"DtUpdated": "",
+	"UpdateBy": ""
+}
