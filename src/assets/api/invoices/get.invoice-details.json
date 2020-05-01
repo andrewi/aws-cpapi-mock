@@ -1,0 +1,32 @@
+{
+	"ID": 1836,
+	"Status": "Insufficient Authority",
+	"MyStatus": "Current Approver",
+	"Type": "NTE Increase",
+	"Amount": 454,
+	"MoneyId": 1033,
+	"CurrencyCode": "USD",
+	"Association": "ALPr5551",
+	"AssociationWoID": 90088,
+	"WorkZoneName": "AL Property",
+	"Description": "bla bla bla",
+
+	"Documents": [
+		{
+			"ID": 1836,
+			"Comment": "Insufficient Authority"
+		}
+	],
+	"Steps": [
+		{
+			"ID": 2436,
+			"Step": "Step 1",
+			"Comment": "11 11 eewr wer wwrwr wr we rwrw"
+		},
+		{
+			"ID": 1961,
+			"Step": "Step 2",
+			"Comment": "22 2222 eewr wer wwrwr wr we rwrw"
+		}
+	]
+}

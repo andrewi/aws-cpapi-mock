@@ -1,0 +1,24 @@
+{
+	"name": "aws-cpapi-mock",
+	"version": "1.0.0",
+	"description": "",
+	"main": "bin/index",
+	"files": [
+		"bin/**/*.*",
+		"package.json"
+	],
+	"scripts": {
+		"transpile": "npx tsc",
+		"create": "npx tsc && claudia create --region us-west-1 --api-module bin/index",
+		"update": "npx tsc && claudia update --api-module bin/index",
+		"pack": "npx tsc && claudia pack --api-module bin/index --force",
+		"destroy": "claudia destroy"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"dependencies": {
+		"claudia-api-builder": "^4.1.2",
+		"typescript": "^3.8.3"
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"lambda": {
+		"role": "aws-cpapi-mock-executor",
+		"name": "aws-cpapi-mock",
+		"region": "us-west-1"
+	},
+	"api": {
+		"id": "ijvbz5dh2m",
+		"module": "bin/index"
+	}
+}

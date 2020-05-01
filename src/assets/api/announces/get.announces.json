@@ -1,0 +1,10 @@
+[
+	{
+		"Id": 1056,
+		"Announce": "<strong>Alerts</strong> are available for any length of text, as well as an optional dismiss button. For proper styling, use one of the four required contextual classes (e.g., .alert-success). For inline dismissal, use the dismissible property."
+	},
+	{
+		"Id": 535,
+		"Announce": "The accordion component builds on top of the collapse directive to provide a list of items, with collapsible bodies that are collapsed or expanded by clicking on the item's header."
+	}
+]

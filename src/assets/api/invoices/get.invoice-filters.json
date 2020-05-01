@@ -1,0 +1,40 @@
+{
+	"billingAccounts": [
+		{
+			"id": 722,
+			"displayAs": "Tm Customer Group - Billing Account"
+		},
+		{
+			"id": 5744,
+			"displayAs": "0-2 Electronico - Billing Account"
+		}
+	],
+	"invoiceTypes": [
+		{
+			"id": "OpenInvoices",
+			"displayAs": "Open Invoices"
+		},
+		{
+			"id": "FullyPaidInvoices",
+			"displayAs": "Fully Paid Invoices"
+		}
+	],
+	"timeFrames": [
+		{
+			"id": "Last90",
+			"displayAs": "Last 90 days"
+		},
+		{
+			"id": "Last180",
+			"displayAs": "Last 180 days"
+		},
+		{
+			"id": "Last360",
+			"displayAs": "Last 360 days"
+		},
+		{
+			"id": "Last720",
+			"displayAs": "Last 720 days"
+		}
+	]
+}

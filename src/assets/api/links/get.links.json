@@ -1,0 +1,10 @@
+[
+	{
+		"DisplayAs": "Hyperlink to Bing Service",
+		"Link": "http://www.bing.com"
+	},
+	{
+		"DisplayAs": "Hyperlink to Google Service",
+		"Link": "http://www.google.com"
+	}
+]

@@ -1,0 +1,97 @@
+{
+	"assetList": [
+		{
+			"id": 3176675,
+			"displayAs": "Building A",
+			"isTerminal": false
+		},
+		{
+			"id": 3176676,
+			"displayAs": "Building B",
+			"isTerminal": false
+		},
+		{
+			"id": 3176677,
+			"displayAs": "Building C",
+			"isTerminal": false
+		},
+		{
+			"id": 3176678,
+			"displayAs": "Building D",
+			"isTerminal": false
+		},
+		{
+			"id": 1231234,
+			"displayAs": "Terminal Asset A",
+			"isTerminal": true
+		}
+	],
+
+	"taskList": [
+		{
+			"id": 5146,
+			"displayAs": "Fix:",
+			"isEmergency": true
+		},
+		{
+			"id": 10138,
+			"displayAs": "Marble floor is cracked.",
+			"isEmergency": false
+		},
+		{
+			"id": 10140,
+			"displayAs": "Range burner heats only partially.",
+			"isEmergency": false
+		},
+		{
+			"id": 10141,
+			"displayAs": "Dishwasher does not complete a cycle.",
+			"isEmergency": false
+		},
+		{
+			"id": 10142,
+			"displayAs": "Dishwasher does not drain.",
+			"isEmergency": false
+		},
+		{
+			"id": 10143,
+			"displayAs": "Dishwasher does not fill with water.",
+			"isEmergency": false
+		},
+		{
+			"id": 10144,
+			"displayAs": "Dishwasher does not get dishes clean.",
+			"isEmergency": false
+		},
+		{
+			"id": 10145,
+			"displayAs": "Freezer is too warm.",
+			"isEmergency": false
+		},
+		{
+			"id": 10146,
+			"displayAs": "Freezer gets ice buildup on the liner.",
+			"isEmergency": false
+		},
+		{
+			"id": 10147,
+			"displayAs": "Refrigerator is sweating inside cabinet.",
+			"isEmergency": false
+		},
+		{
+			"id": 10148,
+			"displayAs": "Automatic ice maker does not work.",
+			"isEmergency": false
+		},
+		{
+			"id": 10149,
+			"displayAs": "Oven does not heat.",
+			"isEmergency": false
+		},
+		{
+			"id": 10136,
+			"displayAs": "Marble floor looks dull.",
+			"isEmergency": false
+		}
+	]
+}

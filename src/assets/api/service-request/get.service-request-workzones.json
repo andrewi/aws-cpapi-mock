@@ -1,0 +1,22 @@
+{
+	"workZone": {
+		"name": ".CCT20",
+		"assetId": 3176672,
+		"id": 1373
+	},
+	"availableWorkZoneCount": 1,
+	"assetBreadcrumb": [
+		{
+			"assetLevelId": 0,
+			"selectedAssetId": 3176672,
+			"selectedAssetDislayAs": ".CCT20",
+			"assetLevelList": null
+		},
+		{
+			"assetLevelId": 1,
+			"selectedAssetId": 3176675,
+			"selectedAssetDislayAs": "Building A",
+			"assetLevelList": null
+		}
+	]
+}

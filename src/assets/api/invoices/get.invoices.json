@@ -1,0 +1,22 @@
+[
+	{
+		"Id": 527,
+		"Number": "334",
+		"Comments": "add some comments for the invoice item",
+		"Total": 5.0,
+		"DueBy": "2014-02-14",
+		"Date": "2014-02-06;",
+		"MoneyId": 1033,
+		"CurrencyCode": "USD"
+	},
+	{
+		"Id": 649,
+		"Number": "364",
+		"Comments": "do some stuff",
+		"Total": 4567.23,
+		"DueBy": "2015-02-14",
+		"Date": "2015-02-06;",
+		"MoneyId": 1033,
+		"CurrencyCode": "USD"
+	}
+]
